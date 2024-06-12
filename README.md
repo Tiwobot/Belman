@@ -8,7 +8,7 @@ Belman Municipality Management System
 
 
 
-# Installation 👨🏻‍💻
+# Installation
 
 > We recommend you use npm
 
